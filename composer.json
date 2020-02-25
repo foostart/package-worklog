@@ -1,0 +1,24 @@
+{
+    "name": "foostart/package-worklog",
+    "description": "Create overview worklog can intergrate other project",
+    "keywords": [
+        "foostart",
+        "laravel 5 package worklog"
+    ],
+    "authors": [
+        {
+            "name": "FooStart",
+            "email": "foostart.com@gmail.com",
+            "homepage": "http://foostart.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Foostart\\Worklog\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
